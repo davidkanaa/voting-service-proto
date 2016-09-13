@@ -1,0 +1,1 @@
+const char* WSAGetLastErrorMessage(const char* pcMessagePrefix, int nErrorID = 0);
